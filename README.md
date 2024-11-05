@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/inderjeet8199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inderjeet8199" height="30" width="40" /></a>
 <a href="https://instagram.com/inderjeet01845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inderjeet01845" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nitian_inder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitian_inder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@NitianInder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitian_inder" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/inderjeetsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="inderjeetsingh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/inderjeet2singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="inderjeet2singh" height="30" width="40" /></a>
 </p>
